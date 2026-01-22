@@ -3,7 +3,7 @@
 	"mediaType": "application/vnd.oci.image.manifest.v1+json",
 	"config": {
 		"mediaType": "application/vnd.oci.image.config.v1+json",
-		"digest": "sha256:cfd691365a4a09f4f4c44c78c096a7dc34e7800fb5ca4671aafa8fce32bfef26",
+		"digest": "sha256:a967d04372d4f15d206b3daa7919b7bb10f6cb7e91794cd4b0497d060704e5ed",
 		"size": 480
 	},
 	"layers": [
